@@ -1,0 +1,16 @@
+body{
+    font-family: sans-serif;
+    color:#ffc50f;
+}
+
+header{
+    text-align: center;
+}
+
+span{
+    background-color: blue;
+    color:rgb(238, 242, 243);
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
